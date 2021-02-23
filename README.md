@@ -1,10 +1,10 @@
-# Crazy Balls or Images Drop
+# Crazy Balls or Images Drop site
  
 Небольшой сайт с фичей бесконечно появляющихся шаров разных размеров с рандомными фото
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-6/Crazy%20Balls/index.html
 
-Другие сайты, на основе Crazy Balls or Images Drop {
+Другие сайты, на основе Crazy Balls or Images Drop site {
 
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-2/Drop-Image-Rain/index.html
    
