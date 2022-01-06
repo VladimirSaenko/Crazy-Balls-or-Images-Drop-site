@@ -1,8 +1,8 @@
 # Crazy Balls or Images Drop site
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/135832838-c65dd441-dacd-4754-9ab7-3bc37635ed84.png)
- 
 ### Сайт с фичей бесконечно появляющихся шаров разных размеров с рандомными фото
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/135832838-c65dd441-dacd-4754-9ab7-3bc37635ed84.png)
 
 ## Portfolio {
 
