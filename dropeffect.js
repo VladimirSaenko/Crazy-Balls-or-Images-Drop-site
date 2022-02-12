@@ -46,4 +46,4 @@ function crazyBalls_Images() {
     }, 6000);
 }
 
-setInterval(crazyBalls_Images,50);
+setInterval(crazyBalls_Images, 50);
